@@ -3,6 +3,6 @@
 
 int main(){	
 
-	printf("upload");
+	printf("upload\n");
 	return 0;
 }
